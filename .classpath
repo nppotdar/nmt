@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="examples"/>
 	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="src" path="menu"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="mt4jLibs/core.jar"/>
 	<classpathentry kind="lib" path="mt4jLibs/mri.jar"/>
@@ -57,6 +58,6 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MT4j"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/ameya/workspace3/MT4j/src/lib/mysql-connector-java-5.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.18.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

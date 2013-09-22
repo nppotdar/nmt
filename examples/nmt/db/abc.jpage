@@ -1,2 +1,0 @@
-Item x = new Item(1);
-x.getClassifierType("class");System.out.print(x.);DBConnect t = new DBConnect("SELECT * FROM nmt_menuitemslist");t.getRowCount();ItemsList x = new ItemsList();x.getItemsByFilter("type", "meat");List<Item> temp = x.getFilteredList();temp;
