@@ -1,3 +1,5 @@
-The first version of my FTIR Multitouch Application.
-examples / nmt / restaurant / StartNMTScene.java
-NOTE: .db file to be added sooon :)
+FTIR multitouch application
+custom touch menu for easy restaurant menu substitute
+Begin Activity:
+menu / nmt / restaurant / StartNMTScene.java
+
